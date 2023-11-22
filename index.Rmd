@@ -10,6 +10,7 @@ output:
       collapsed: true
 params: 
   mammals_family: "Ursidae"
+  mammals_trait: "body_size"
 ---
 
 ---
