@@ -19,4 +19,4 @@ pkgload::load_all(here::here())
 ## Run Project ----
 
 rmarkdown::render(here::here("index.Rmd"), 
-                  params = list(mammals_family = "Ursidae"))
+                  params = list(mammals_family = "Canidae"))
